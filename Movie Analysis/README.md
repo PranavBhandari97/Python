@@ -6,4 +6,4 @@
 ### The problem was to derive insights for this dataset.
 
 ## Similar code in R
-### Link: https://github.com/PranavBhandari97/R-Programming/tree/main/Demographic%20Analysis
+### Link: https://github.com/PranavBhandari97/R-Programming/tree/main/Movie%20Analysis
